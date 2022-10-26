@@ -6,17 +6,8 @@
         <title>东东</title>
         <link href="css/main.min.css" rel="stylesheet" type="text/css">
         <link rel="Shortcut Icon" href="favicon.ico"/>
-        <link rel="preload" href="img/love-the-girl.jpg" as="image">
-        <link rel="preload" href="img/news-wuhanfeiyan.jpg" as="image">
         <link rel="preload" href="img/separate.jpeg" as="image">
-        <link rel="preload" href="img/in-sichuan.jpeg" as="image">
-        <link rel="preload" href="img/lucky-me.jpg" as="image">
-        <link rel="preload" href="img/breakfast.jpg" as="image">
-        <link rel="preload" href="img/exercise-together.jpg" as="image">
-        <link rel="preload" href="img/travel.jpg" as="image">
-        <link rel="preload" href="img/foot.jpg" as="image">
-        <link rel="preload" href="img/marry-me.png" as="image">
-        <link rel="preload" href="img/kiss-my-princess.png" as="image">
+ 
     </head>
     <body>
         <div id="mobile" :class="{ 'has-prompt': hasPrompt }">
