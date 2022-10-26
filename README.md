@@ -3,16 +3,15 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=100%, initial-scale=1">
-        <title>东东</title>
+        <title>与东东聊天中</title>
         <link href="css/main.min.css" rel="stylesheet" type="text/css">
         <link rel="Shortcut Icon" href="favicon.ico"/>
-        <link rel="preload" href="img/separate.jpeg" as="image">
- 
+        <link rel="preload" href="img/love-the-girl.jpg" as="image">
     </head>
     <body>
         <div id="mobile" :class="{ 'has-prompt': hasPrompt }">
             <div id="mobile-head">
-                <div id="mobile-head-title">东东</div>
+                <div id="mobile-head-title">与东东聊天中</div>
             </div>
             <div id="mobile-body">
                 <div id="mobile-body-bg"></div>
